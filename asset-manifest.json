@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dogcare/static/css/main.5100de13.css",
+    "main.js": "/dogcare/static/js/main.d49bf363.js",
+    "static/js/453.6a0b46ca.chunk.js": "/dogcare/static/js/453.6a0b46ca.chunk.js",
+    "index.html": "/dogcare/index.html",
+    "main.5100de13.css.map": "/dogcare/static/css/main.5100de13.css.map",
+    "main.d49bf363.js.map": "/dogcare/static/js/main.d49bf363.js.map",
+    "453.6a0b46ca.chunk.js.map": "/dogcare/static/js/453.6a0b46ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5100de13.css",
+    "static/js/main.d49bf363.js"
+  ]
+}
